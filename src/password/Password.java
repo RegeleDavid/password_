@@ -36,6 +36,8 @@ public class Password {
         System.out.println(":)");
         System.out.println("asdas");
         System.out.println("012102");
+        System.out.println("siker");
+        
     }
     
 }
