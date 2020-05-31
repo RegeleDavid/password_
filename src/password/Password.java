@@ -33,6 +33,7 @@ public class Password {
         } catch (Exception e) {
             System.err.println(e.getMessage());
         }
+        System.out.println(":)");
     }
     
 }
