@@ -34,6 +34,7 @@ public class Password {
             System.err.println(e.getMessage());
         }
         System.out.println(":)");
+        System.out.println("asdas");
     }
     
 }
